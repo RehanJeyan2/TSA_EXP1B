@@ -90,9 +90,19 @@ plt.show()
 #### LOG TRANSFORMATION:
 <img width="855" height="470" alt="image" src="https://github.com/user-attachments/assets/8b8bde72-4b76-4405-b8b4-c1778444e3b0" />
 
+#### LOG TRANSFORMATION + REGULAR DIFFERENCING: 
+<img width="680" height="451" alt="image" src="https://github.com/user-attachments/assets/174e31fc-0b6c-4916-b506-35085a76a167" />
+
+#### LOG TRANSFORMATION + REGULAR DIFFERENCING + SEASONAL ADJUSTMENT:
+<img width="692" height="451" alt="image" src="https://github.com/user-attachments/assets/f3bd3c96-4f2e-4324-aa2f-5204971b04dd" />
+
+#### OVERALL COMPARISON 
+<img width="848" height="528" alt="image" src="https://github.com/user-attachments/assets/ad67a5cf-cc8e-4442-a30c-db85a29649f9" />
+
+
+
 
 
 
 ### RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
-data.
+Thus we have created the python code for the conversion of non stationary to stationary data on car sales data.
